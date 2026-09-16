@@ -2,10 +2,6 @@
 
 An AI-enabled travel and hospitality market intelligence dashboard for ACCOMY — tracking hotel rates, occupancy, flight corridors, competitor pricing signals, and executive AI briefings across Hong Kong, Singapore, Malaysia, and Mainland China.
 
-<p align="center">
-  <img width="1200" height="475" alt="ACCOMY Market Intelligence Dashboard" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</p>
-
 ## Table of Contents
 
 - [Overview](#overview)
