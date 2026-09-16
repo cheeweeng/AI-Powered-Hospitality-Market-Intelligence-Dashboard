@@ -1,0 +1,72 @@
+[
+  {
+    "id": "promo-01",
+    "competitor": "Trip.com (Ctrip Group)",
+    "market": "HK",
+    "promoTitle": "Hong Kong Autumn Golden Stay 12% Flash Off",
+    "discountType": "FLASH_SALE",
+    "discountValue": "12% Instant Cashback",
+    "targetSegment": "Greater Bay Area cross-boundary travelers",
+    "validPeriod": "Active: Next 72 Hours",
+    "impactScore": 8.8,
+    "detectedAt": "35 mins ago",
+    "strategicThreat": "HIGH",
+    "recommendedCounterAction": "Enforce rate parity clause on Trip.com; inject ACCOMY bundled breakfast value-add to protect direct conversion."
+  },
+  {
+    "id": "promo-02",
+    "competitor": "Marriott Bonvoy",
+    "market": "SG",
+    "promoTitle": "Unlock Singapore: Double Elite Night Credits + 2,500 Bonus Points",
+    "discountType": "MEMBER_ONLY",
+    "discountValue": "Bonus Points / Loyalty Multiplier",
+    "targetSegment": "Regional Corporate Business Transient",
+    "validPeriod": "Through end of Q4",
+    "impactScore": 7.4,
+    "detectedAt": "2 hours ago",
+    "strategicThreat": "MEDIUM",
+    "recommendedCounterAction": "Promote ACCOMY extended stay corporate packages with complimentary coworking & laundry credits."
+  },
+  {
+    "id": "promo-03",
+    "competitor": "Agoda (Booking Holdings)",
+    "market": "MY",
+    "promoTitle": "GoLocal Malaysia Super Wednesday - Up to 25% Off",
+    "discountType": "PERCENT",
+    "discountValue": "20-25% Closed User Group Rate",
+    "targetSegment": "Domestic staycationers & Singapore weekenders",
+    "validPeriod": "Weekly every Wednesday",
+    "impactScore": 7.9,
+    "detectedAt": "3 hours ago",
+    "strategicThreat": "HIGH",
+    "recommendedCounterAction": "Audit Agoda Private Channel rates; verify that geo-fenced rates are not leaking to international IPs."
+  },
+  {
+    "id": "promo-04",
+    "competitor": "Meituan Hotels",
+    "market": "CN",
+    "promoTitle": "High-Speed Rail Travel Voucher: ¥150 Hotel Coupon for GBA Pass",
+    "discountType": "PACKAGE_ADDON",
+    "discountValue": "¥150 Transit Subsidy",
+    "targetSegment": "Shenzhen-Guangzhou weekend leisure travelers",
+    "validPeriod": "Active this month",
+    "impactScore": 8.2,
+    "detectedAt": "4 hours ago",
+    "strategicThreat": "HIGH",
+    "recommendedCounterAction": "Partner with local mobility / transit aggregators to offer bundled seamless check-in for ACCOMY listings."
+  },
+  {
+    "id": "promo-05",
+    "competitor": "Shangri-La Circle",
+    "market": "HK",
+    "promoTitle": "Stay 3 Pay 2 Island Retreat at Island Shangri-La",
+    "discountType": "PACKAGE_ADDON",
+    "discountValue": "33% Effective Rate Reduction on Stays >= 3N",
+    "targetSegment": "High-Net-Worth Leisure Stays",
+    "validPeriod": "Next 14 days",
+    "impactScore": 7.1,
+    "detectedAt": "5 hours ago",
+    "strategicThreat": "MEDIUM",
+    "recommendedCounterAction": "Monitor Upper Upscale & Luxury competitor length-of-stay minimums; calibrate ACCOMY weekend minimum LOS."
+  }
+]

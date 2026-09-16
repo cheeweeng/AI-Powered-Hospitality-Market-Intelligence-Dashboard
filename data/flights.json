@@ -1,0 +1,93 @@
+[
+  {
+    "id": "fl-01",
+    "origin": "HKG (Hong Kong)",
+    "destination": "SIN (Singapore Changi)",
+    "routeCode": "HKG-SIN",
+    "averageFareUSD": 310,
+    "fareChange7d": 14.5,
+    "capacityIndex": 92,
+    "demandSurgeLevel": "HIGH_SURGE",
+    "carriers": [
+      "Cathay Pacific",
+      "Singapore Airlines",
+      "Scoot"
+    ]
+  },
+  {
+    "id": "fl-02",
+    "origin": "PVG (Shanghai Pudong)",
+    "destination": "HKG (Hong Kong)",
+    "routeCode": "PVG-HKG",
+    "averageFareUSD": 245,
+    "fareChange7d": 18.2,
+    "capacityIndex": 96,
+    "demandSurgeLevel": "HIGH_SURGE",
+    "carriers": [
+      "Cathay Pacific",
+      "China Eastern",
+      "Spring Airlines"
+    ]
+  },
+  {
+    "id": "fl-03",
+    "origin": "KUL (Kuala Lumpur)",
+    "destination": "SIN (Singapore)",
+    "routeCode": "KUL-SIN",
+    "averageFareUSD": 85,
+    "fareChange7d": 4.2,
+    "capacityIndex": 88,
+    "demandSurgeLevel": "NORMAL",
+    "carriers": [
+      "AirAsia",
+      "Malaysia Airlines",
+      "Scoot",
+      "Batik Air"
+    ]
+  },
+  {
+    "id": "fl-04",
+    "origin": "KUL (Kuala Lumpur)",
+    "destination": "HKG (Hong Kong)",
+    "routeCode": "KUL-HKG",
+    "averageFareUSD": 220,
+    "fareChange7d": 8.9,
+    "capacityIndex": 86,
+    "demandSurgeLevel": "ELEVATED",
+    "carriers": [
+      "Cathay Pacific",
+      "Malaysia Airlines",
+      "AirAsia X"
+    ]
+  },
+  {
+    "id": "fl-05",
+    "origin": "CAN (Guangzhou)",
+    "destination": "SIN (Singapore)",
+    "routeCode": "CAN-SIN",
+    "averageFareUSD": 275,
+    "fareChange7d": 11.4,
+    "capacityIndex": 90,
+    "demandSurgeLevel": "ELEVATED",
+    "carriers": [
+      "China Southern",
+      "Singapore Airlines",
+      "Scoot"
+    ]
+  },
+  {
+    "id": "fl-06",
+    "origin": "PEK (Beijing Capital)",
+    "destination": "HKG (Hong Kong)",
+    "routeCode": "PEK-HKG",
+    "averageFareUSD": 290,
+    "fareChange7d": 12.8,
+    "capacityIndex": 94,
+    "demandSurgeLevel": "HIGH_SURGE",
+    "carriers": [
+      "Air China",
+      "Cathay Pacific",
+      "Hong Kong Airlines"
+    ]
+  }
+]

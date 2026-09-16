@@ -1,0 +1,54 @@
+[
+  {
+    "id": "aud-01",
+    "timestamp": "2026-09-14 05:40",
+    "auditor": "Sarah Chen (Revenue Analyst)",
+    "propertyName": "The Upper House Hong Kong",
+    "market": "HK",
+    "channel": "Trip.com vs Brand Direct",
+    "systemRecordedRate": 4820,
+    "verifiedActualRate": 4820,
+    "variancePercentage": 0,
+    "status": "ACCURATE",
+    "notes": "Verified via live HK IP proxy with breakfast excluded. Zero variance."
+  },
+  {
+    "id": "aud-02",
+    "timestamp": "2026-09-14 04:15",
+    "auditor": "Kevin Wong (Data Engineer)",
+    "propertyName": "Rosewood Hong Kong",
+    "market": "HK",
+    "channel": "Trip.com Mobile App",
+    "systemRecordedRate": 5060,
+    "verifiedActualRate": 5110,
+    "variancePercentage": 0.98,
+    "status": "ACCEPTABLE",
+    "notes": "Slight fluctuation due to mobile app closed-user-group coupon; well within <5% threshold."
+  },
+  {
+    "id": "aud-03",
+    "timestamp": "2026-09-13 22:30",
+    "auditor": "Alicia Tan (Market Manager SG)",
+    "propertyName": "Marina Bay Sands",
+    "market": "SG",
+    "channel": "Agoda Desktop",
+    "systemRecordedRate": 915,
+    "verifiedActualRate": 915,
+    "variancePercentage": 0,
+    "status": "ACCURATE",
+    "notes": "Exact match with Agoda VIP tier pricing."
+  },
+  {
+    "id": "aud-04",
+    "timestamp": "2026-09-13 18:20",
+    "auditor": "Marcus Lim (MY Lead)",
+    "propertyName": "EQ Kuala Lumpur",
+    "market": "MY",
+    "channel": "Booking.com Genius",
+    "systemRecordedRate": 845,
+    "verifiedActualRate": 850,
+    "variancePercentage": 0.59,
+    "status": "ACCURATE",
+    "notes": "Currency conversion rounding within acceptable tolerance."
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "ACCOMY Market Intelligence & Pricing Signal Monitor",
+  "description": "AI-enabled monitoring system for ACCOMY tracking travel market data, competitor rates, pricing signals, and AI executive summaries across Hong Kong, Singapore, Malaysia, and China.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_OPENROUTER_API"]
+}

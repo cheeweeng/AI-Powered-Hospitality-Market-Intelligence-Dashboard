@@ -1,0 +1,849 @@
+[
+  {
+    "id": "hk-01",
+    "name": "The Upper House Hong Kong",
+    "market": "HK",
+    "district": "Central / Admiralty",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 620,
+    "currentADR": 4820,
+    "previousADR": 4350,
+    "occupancyRate": 91,
+    "rateParityStatus": "PARITY",
+    "channels": {
+      "tripCom": 4820,
+      "agoda": 4850,
+      "bookingCom": 4820,
+      "expedia": 4890,
+      "brandDirect": 4800
+    },
+    "promotions": [
+      "Complimentary breakfast & HK$500 dining credit",
+      "Stay 3 Pay 2 Autumn Executive"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 4350,
+        "occupancy": 82
+      },
+      {
+        "date": "Sep 09",
+        "adr": 4400,
+        "occupancy": 85
+      },
+      {
+        "date": "Sep 10",
+        "adr": 4520,
+        "occupancy": 88
+      },
+      {
+        "date": "Sep 11",
+        "adr": 4680,
+        "occupancy": 89
+      },
+      {
+        "date": "Sep 12",
+        "adr": 4790,
+        "occupancy": 90
+      },
+      {
+        "date": "Sep 13",
+        "adr": 4820,
+        "occupancy": 91
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 4850,
+        "demandIndex": 88
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 4920,
+        "demandIndex": 92
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 5100,
+        "demandIndex": 96
+      },
+      {
+        "date": "Sep 18",
+        "projectedADR": 5250,
+        "demandIndex": 98
+      },
+      {
+        "date": "Sep 19",
+        "projectedADR": 5150,
+        "demandIndex": 94
+      }
+    ]
+  },
+  {
+    "id": "hk-02",
+    "name": "Rosewood Hong Kong",
+    "market": "HK",
+    "district": "Tsim Sha Tsui Victoria Dockside",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 710,
+    "currentADR": 5520,
+    "previousADR": 5200,
+    "occupancyRate": 93.5,
+    "rateParityStatus": "OTA_UNDERCUT",
+    "disparityPercentage": 8.2,
+    "channels": {
+      "tripCom": 5060,
+      "agoda": 5490,
+      "bookingCom": 5520,
+      "expedia": 5550,
+      "meituan": 5120,
+      "brandDirect": 5520
+    },
+    "promotions": [
+      "Trip.com Mega Sale -8%",
+      "Asaya Wellness Package"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 5100,
+        "occupancy": 86
+      },
+      {
+        "date": "Sep 09",
+        "adr": 5200,
+        "occupancy": 88
+      },
+      {
+        "date": "Sep 10",
+        "adr": 5350,
+        "occupancy": 91
+      },
+      {
+        "date": "Sep 11",
+        "adr": 5400,
+        "occupancy": 92
+      },
+      {
+        "date": "Sep 12",
+        "adr": 5480,
+        "occupancy": 93
+      },
+      {
+        "date": "Sep 13",
+        "adr": 5520,
+        "occupancy": 93.5
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 5600,
+        "demandIndex": 94
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 5750,
+        "demandIndex": 97
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 5900,
+        "demandIndex": 99
+      },
+      {
+        "date": "Sep 18",
+        "projectedADR": 5800,
+        "demandIndex": 95
+      }
+    ]
+  },
+  {
+    "id": "hk-03",
+    "name": "The Murray, Hong Kong, a Niccolo Hotel",
+    "market": "HK",
+    "district": "Central Cotton Tree Drive",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 390,
+    "currentADR": 3050,
+    "previousADR": 3200,
+    "occupancyRate": 82,
+    "rateParityStatus": "PARITY",
+    "channels": {
+      "tripCom": 3050,
+      "agoda": 3080,
+      "bookingCom": 3050,
+      "expedia": 3050,
+      "brandDirect": 3000
+    },
+    "promotions": [
+      "Pet-cation Deluxe Suite Addon",
+      "Weekday Business Stay with Late Checkout"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 3250,
+        "occupancy": 78
+      },
+      {
+        "date": "Sep 09",
+        "adr": 3200,
+        "occupancy": 80
+      },
+      {
+        "date": "Sep 10",
+        "adr": 3150,
+        "occupancy": 81
+      },
+      {
+        "date": "Sep 11",
+        "adr": 3100,
+        "occupancy": 81
+      },
+      {
+        "date": "Sep 12",
+        "adr": 3080,
+        "occupancy": 82
+      },
+      {
+        "date": "Sep 13",
+        "adr": 3050,
+        "occupancy": 82
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 3120,
+        "demandIndex": 83
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 3200,
+        "demandIndex": 85
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 3350,
+        "demandIndex": 89
+      }
+    ]
+  },
+  {
+    "id": "hk-04",
+    "name": "Eaton HK (Jordan / Yau Ma Tei)",
+    "market": "HK",
+    "district": "Kowloon Central",
+    "tier": "Upper Upscale",
+    "stars": 4,
+    "basePriceUSD": 160,
+    "currentADR": 1240,
+    "previousADR": 1100,
+    "occupancyRate": 88,
+    "rateParityStatus": "PARITY",
+    "channels": {
+      "tripCom": 1240,
+      "agoda": 1240,
+      "bookingCom": 1260,
+      "expedia": 1250,
+      "brandDirect": 1200
+    },
+    "promotions": [
+      "Cultural nomad workspace pass included"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 1080,
+        "occupancy": 81
+      },
+      {
+        "date": "Sep 09",
+        "adr": 1100,
+        "occupancy": 83
+      },
+      {
+        "date": "Sep 10",
+        "adr": 1150,
+        "occupancy": 84
+      },
+      {
+        "date": "Sep 11",
+        "adr": 1190,
+        "occupancy": 86
+      },
+      {
+        "date": "Sep 12",
+        "adr": 1220,
+        "occupancy": 87
+      },
+      {
+        "date": "Sep 13",
+        "adr": 1240,
+        "occupancy": 88
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 1280,
+        "demandIndex": 87
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 1350,
+        "demandIndex": 91
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 1400,
+        "demandIndex": 94
+      }
+    ]
+  },
+  {
+    "id": "hk-05",
+    "name": "Shama Serviced Apartments Mid-Levels",
+    "market": "HK",
+    "district": "Mid-Levels / Central",
+    "tier": "Serviced Apartments",
+    "stars": 4,
+    "basePriceUSD": 230,
+    "currentADR": 1790,
+    "previousADR": 1750,
+    "occupancyRate": 89.2,
+    "rateParityStatus": "DIRECT_CHEAPER",
+    "disparityPercentage": 5.5,
+    "channels": {
+      "tripCom": 1890,
+      "agoda": 1880,
+      "bookingCom": 1890,
+      "expedia": 1910,
+      "brandDirect": 1790
+    },
+    "promotions": [
+      "Extended Stay 14+ nights 15% discount",
+      "Direct corporate booking rebate"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 1720,
+        "occupancy": 87
+      },
+      {
+        "date": "Sep 09",
+        "adr": 1750,
+        "occupancy": 88
+      },
+      {
+        "date": "Sep 10",
+        "adr": 1750,
+        "occupancy": 88
+      },
+      {
+        "date": "Sep 11",
+        "adr": 1780,
+        "occupancy": 89
+      },
+      {
+        "date": "Sep 12",
+        "adr": 1790,
+        "occupancy": 89
+      },
+      {
+        "date": "Sep 13",
+        "adr": 1790,
+        "occupancy": 89.2
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 1800,
+        "demandIndex": 90
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 1820,
+        "demandIndex": 91
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 1850,
+        "demandIndex": 92
+      }
+    ]
+  },
+  {
+    "id": "hk-06",
+    "name": "Dorsett Wanchai Hong Kong",
+    "market": "HK",
+    "district": "Wan Chai / Happy Valley",
+    "tier": "Midscale",
+    "stars": 4,
+    "basePriceUSD": 140,
+    "currentADR": 1090,
+    "previousADR": 980,
+    "occupancyRate": 86.4,
+    "rateParityStatus": "CRITICAL_DISPARITY",
+    "disparityPercentage": 14.7,
+    "channels": {
+      "tripCom": 930,
+      "agoda": 1090,
+      "bookingCom": 1110,
+      "expedia": 1100,
+      "meituan": 920,
+      "brandDirect": 1090
+    },
+    "promotions": [
+      "Trip.com Flash Deal Flash 48H",
+      "Meituan Cross-Border Voucher"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 960,
+        "occupancy": 82
+      },
+      {
+        "date": "Sep 09",
+        "adr": 980,
+        "occupancy": 83
+      },
+      {
+        "date": "Sep 10",
+        "adr": 1020,
+        "occupancy": 85
+      },
+      {
+        "date": "Sep 11",
+        "adr": 1050,
+        "occupancy": 85
+      },
+      {
+        "date": "Sep 12",
+        "adr": 1080,
+        "occupancy": 86
+      },
+      {
+        "date": "Sep 13",
+        "adr": 1090,
+        "occupancy": 86.4
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 1120,
+        "demandIndex": 88
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 1160,
+        "demandIndex": 90
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 1220,
+        "demandIndex": 93
+      }
+    ]
+  },
+  {
+    "id": "sg-01",
+    "name": "Marina Bay Sands",
+    "market": "SG",
+    "district": "Marina Bay",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 680,
+    "currentADR": 910,
+    "previousADR": 850,
+    "occupancyRate": 94,
+    "rateParityStatus": "PARITY",
+    "channels": {
+      "tripCom": 910,
+      "agoda": 915,
+      "bookingCom": 910,
+      "expedia": 920,
+      "brandDirect": 900
+    },
+    "promotions": [
+      "Sands Rewards Lifestyle Tier Match",
+      "SkyPark Observation Deck complimentary bundle"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 830,
+        "occupancy": 91
+      },
+      {
+        "date": "Sep 09",
+        "adr": 850,
+        "occupancy": 92
+      },
+      {
+        "date": "Sep 10",
+        "adr": 870,
+        "occupancy": 93
+      },
+      {
+        "date": "Sep 11",
+        "adr": 890,
+        "occupancy": 93
+      },
+      {
+        "date": "Sep 12",
+        "adr": 905,
+        "occupancy": 94
+      },
+      {
+        "date": "Sep 13",
+        "adr": 910,
+        "occupancy": 94
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 940,
+        "demandIndex": 96
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 980,
+        "demandIndex": 98
+      },
+      {
+        "date": "Sep 17",
+        "projectedADR": 1050,
+        "demandIndex": 99
+      }
+    ]
+  },
+  {
+    "id": "sg-02",
+    "name": "The Clan Hotel Singapore by Far East",
+    "market": "SG",
+    "district": "Telok Ayer / CBD",
+    "tier": "Upper Upscale",
+    "stars": 5,
+    "basePriceUSD": 280,
+    "currentADR": 375,
+    "previousADR": 360,
+    "occupancyRate": 85.5,
+    "rateParityStatus": "OTA_UNDERCUT",
+    "disparityPercentage": 6.7,
+    "channels": {
+      "tripCom": 350,
+      "agoda": 365,
+      "bookingCom": 375,
+      "expedia": 380,
+      "brandDirect": 375
+    },
+    "promotions": [
+      "Far East Insider 10% Member Rate"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 350,
+        "occupancy": 82
+      },
+      {
+        "date": "Sep 09",
+        "adr": 360,
+        "occupancy": 83
+      },
+      {
+        "date": "Sep 10",
+        "adr": 365,
+        "occupancy": 84
+      },
+      {
+        "date": "Sep 11",
+        "adr": 370,
+        "occupancy": 85
+      },
+      {
+        "date": "Sep 12",
+        "adr": 375,
+        "occupancy": 85.5
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 385,
+        "demandIndex": 88
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 395,
+        "demandIndex": 90
+      }
+    ]
+  },
+  {
+    "id": "my-01",
+    "name": "EQ Kuala Lumpur",
+    "market": "MY",
+    "district": "Jalan Sultan Ismail / KLCC",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 190,
+    "currentADR": 845,
+    "previousADR": 790,
+    "occupancyRate": 83,
+    "rateParityStatus": "PARITY",
+    "channels": {
+      "tripCom": 845,
+      "agoda": 850,
+      "bookingCom": 845,
+      "expedia": 860,
+      "brandDirect": 830
+    },
+    "promotions": [
+      "Blue at EQ Sky Bar Package",
+      "Early Bird 21 Days 15% off"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 770,
+        "occupancy": 78
+      },
+      {
+        "date": "Sep 09",
+        "adr": 790,
+        "occupancy": 80
+      },
+      {
+        "date": "Sep 10",
+        "adr": 810,
+        "occupancy": 81
+      },
+      {
+        "date": "Sep 11",
+        "adr": 830,
+        "occupancy": 82
+      },
+      {
+        "date": "Sep 12",
+        "adr": 845,
+        "occupancy": 83
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 860,
+        "demandIndex": 85
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 890,
+        "demandIndex": 89
+      }
+    ]
+  },
+  {
+    "id": "my-02",
+    "name": "Eastern & Oriental Hotel Penang",
+    "market": "MY",
+    "district": "George Town Heritage",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 210,
+    "currentADR": 935,
+    "previousADR": 910,
+    "occupancyRate": 87.5,
+    "rateParityStatus": "DIRECT_CHEAPER",
+    "channels": {
+      "tripCom": 955,
+      "agoda": 960,
+      "bookingCom": 955,
+      "expedia": 970,
+      "brandDirect": 935
+    },
+    "promotions": [
+      "Heritage Suite Afternoon Tea Included"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 890,
+        "occupancy": 84
+      },
+      {
+        "date": "Sep 09",
+        "adr": 910,
+        "occupancy": 85
+      },
+      {
+        "date": "Sep 10",
+        "adr": 920,
+        "occupancy": 86
+      },
+      {
+        "date": "Sep 11",
+        "adr": 930,
+        "occupancy": 87
+      },
+      {
+        "date": "Sep 12",
+        "adr": 935,
+        "occupancy": 87.5
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 950,
+        "demandIndex": 89
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 980,
+        "demandIndex": 92
+      }
+    ]
+  },
+  {
+    "id": "cn-01",
+    "name": "The Middle House Shanghai",
+    "market": "CN",
+    "district": "Jing’an / West Nanjing Road",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 360,
+    "currentADR": 2600,
+    "previousADR": 2450,
+    "occupancyRate": 81.5,
+    "rateParityStatus": "PARITY",
+    "channels": {
+      "tripCom": 2600,
+      "agoda": 2630,
+      "bookingCom": 2600,
+      "expedia": 2650,
+      "meituan": 2580,
+      "brandDirect": 2550
+    },
+    "promotions": [
+      "Autumn Art Walk Stay",
+      "Swire Hotels House Collective Perks"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 2400,
+        "occupancy": 78
+      },
+      {
+        "date": "Sep 09",
+        "adr": 2450,
+        "occupancy": 79
+      },
+      {
+        "date": "Sep 10",
+        "adr": 2520,
+        "occupancy": 80
+      },
+      {
+        "date": "Sep 11",
+        "adr": 2580,
+        "occupancy": 81
+      },
+      {
+        "date": "Sep 12",
+        "adr": 2600,
+        "occupancy": 81.5
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 2650,
+        "demandIndex": 84
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 2750,
+        "demandIndex": 88
+      }
+    ]
+  },
+  {
+    "id": "cn-02",
+    "name": "Park Hyatt Shenzhen",
+    "market": "CN",
+    "district": "Futian CBD",
+    "tier": "Luxury",
+    "stars": 5,
+    "basePriceUSD": 290,
+    "currentADR": 2100,
+    "previousADR": 1980,
+    "occupancyRate": 86,
+    "rateParityStatus": "OTA_UNDERCUT",
+    "disparityPercentage": 9.5,
+    "channels": {
+      "tripCom": 1900,
+      "agoda": 2050,
+      "bookingCom": 2100,
+      "expedia": 2150,
+      "meituan": 1880,
+      "brandDirect": 2100
+    },
+    "promotions": [
+      "Meituan High-Speed Rail Traveler Special",
+      "World of Hyatt Double Points"
+    ],
+    "historicalTrend": [
+      {
+        "date": "Sep 08",
+        "adr": 1950,
+        "occupancy": 82
+      },
+      {
+        "date": "Sep 09",
+        "adr": 1980,
+        "occupancy": 83
+      },
+      {
+        "date": "Sep 10",
+        "adr": 2030,
+        "occupancy": 84
+      },
+      {
+        "date": "Sep 11",
+        "adr": 2070,
+        "occupancy": 85
+      },
+      {
+        "date": "Sep 12",
+        "adr": 2100,
+        "occupancy": 86
+      }
+    ],
+    "forwardForecast": [
+      {
+        "date": "Sep 15",
+        "projectedADR": 2180,
+        "demandIndex": 89
+      },
+      {
+        "date": "Sep 16",
+        "projectedADR": 2280,
+        "demandIndex": 93
+      }
+    ]
+  }
+]

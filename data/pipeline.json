@@ -1,0 +1,62 @@
+{
+  "dataCoverageRate": 94.8,
+  "dataFreshnessHours": 1.4,
+  "accuracyErrorRate": 2.3,
+  "stakeholderUsabilityRating": 4.7,
+  "insightQualityScore": 86,
+  "systemUptimePercentage": 98.6,
+  "activeSources": 18,
+  "totalSources": 19,
+  "lastIngestionTimestamp": "Today, 06:10:00 UTC (1.4 hours ago)",
+  "nextScheduledIngestion": "In 4.6 hours (Automated 6-Hour Cycle)",
+  "sourceBreakdown": [
+    {
+      "source": "Trip.com Regional Hotel Engine",
+      "type": "OTA Scraper",
+      "status": "HEALTHY",
+      "latencyMs": 380,
+      "successRate": 98.4,
+      "recordsProcessed": 1420
+    },
+    {
+      "source": "Agoda Partner API & Metasearch",
+      "type": "OTA Scraper",
+      "status": "HEALTHY",
+      "latencyMs": 420,
+      "successRate": 97.2,
+      "recordsProcessed": 1180
+    },
+    {
+      "source": "Booking.com Connectivity Feed",
+      "type": "OTA Scraper",
+      "status": "HEALTHY",
+      "latencyMs": 310,
+      "successRate": 99.1,
+      "recordsProcessed": 960
+    },
+    {
+      "source": "Meituan Hotels & Lifestyle API",
+      "type": "OTA Scraper",
+      "status": "HEALTHY",
+      "latencyMs": 510,
+      "successRate": 93.8,
+      "recordsProcessed": 840
+    },
+    {
+      "source": "Amadeus & Sabre GDS Flight Indices",
+      "type": "Flight Meta",
+      "status": "HEALTHY",
+      "latencyMs": 290,
+      "successRate": 99.5,
+      "recordsProcessed": 320
+    },
+    {
+      "source": "Direct Brand.com Parity Crawler",
+      "type": "Direct PMS",
+      "status": "HEALTHY",
+      "latencyMs": 640,
+      "successRate": 95,
+      "recordsProcessed": 540
+    }
+  ]
+}

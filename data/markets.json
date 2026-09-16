@@ -1,0 +1,86 @@
+[
+  {
+    "id": "HK",
+    "name": "Hong Kong SAR",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "currency": "HKD",
+    "fxRateToUSD": 7.78,
+    "averageADR": 1850,
+    "occupancyRate": 84.5,
+    "revPAR": 1563,
+    "adrGrowthYoY": 12.4,
+    "occupancyGrowthYoY": 8.2,
+    "monitoredPropertiesCount": 48,
+    "coverageRate": 95.8,
+    "lastUpdated": "12 mins ago",
+    "keyDrivers": [
+      "Canton Fair spillover from Guangzhou",
+      "Art Basel & Autumn Corporate summits",
+      "Cross-boundary high-speed rail passenger flow +18%"
+    ]
+  },
+  {
+    "id": "SG",
+    "name": "Singapore",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "currency": "SGD",
+    "fxRateToUSD": 1.34,
+    "averageADR": 380,
+    "occupancyRate": 81.2,
+    "revPAR": 308,
+    "adrGrowthYoY": 6.8,
+    "occupancyGrowthYoY": 4.1,
+    "monitoredPropertiesCount": 36,
+    "coverageRate": 94.2,
+    "lastUpdated": "25 mins ago",
+    "keyDrivers": [
+      "Marina Bay MICE & FinTech Festival demand surge",
+      "Regional leisure travel from Malaysia & Indonesia",
+      "Corporate transient stays steady in Tanjong Pagar"
+    ]
+  },
+  {
+    "id": "MY",
+    "name": "Malaysia (KL & Penang)",
+    "country": "Malaysia",
+    "flag": "🇲🇾",
+    "currency": "MYR",
+    "fxRateToUSD": 4.45,
+    "averageADR": 440,
+    "occupancyRate": 72.8,
+    "revPAR": 320,
+    "adrGrowthYoY": 9.1,
+    "occupancyGrowthYoY": 7.5,
+    "monitoredPropertiesCount": 32,
+    "coverageRate": 92.5,
+    "lastUpdated": "40 mins ago",
+    "keyDrivers": [
+      "Visa-free tourism surge from mainland China",
+      "KLCC business travel & medical tourism inbound from Indonesia",
+      "Penang heritage boutique rate firmness"
+    ]
+  },
+  {
+    "id": "CN",
+    "name": "China (SH / SZ / BJ / GZ)",
+    "country": "China",
+    "flag": "🇨🇳",
+    "currency": "CNY",
+    "fxRateToUSD": 7.23,
+    "averageADR": 820,
+    "occupancyRate": 78.4,
+    "revPAR": 642,
+    "adrGrowthYoY": 5.4,
+    "occupancyGrowthYoY": 6.2,
+    "monitoredPropertiesCount": 64,
+    "coverageRate": 91.8,
+    "lastUpdated": "18 mins ago",
+    "keyDrivers": [
+      "Shenzhen-Hong Kong corridor daily commute surge",
+      "Canton Fair preparations in Guangzhou",
+      "Shanghai domestic corporate transient travel revival"
+    ]
+  }
+]

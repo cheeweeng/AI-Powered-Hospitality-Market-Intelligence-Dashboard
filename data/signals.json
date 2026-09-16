@@ -1,0 +1,72 @@
+[
+  {
+    "id": "sig-01",
+    "market": "HK",
+    "category": "DEMAND_SURGE",
+    "severity": "CRITICAL",
+    "title": "Hong Kong Sevens & Autumn Summit ADR Spike (+24.5%)",
+    "description": "Central & Wan Chai luxury & serviced apartment forward rates have jumped 24.5% over the 3-week booking window. Compression index in Wan Chai has reached 94%.",
+    "propertyOrRouteName": "Wan Chai & Central Hotel Cluster",
+    "detectedAt": "18 mins ago",
+    "confidenceScore": 96,
+    "impactEstimate": "+$140K USD projected monthly RevPAR opportunity",
+    "recommendedAction": "Lift standard hurdle rates for Oct 14-22; restrict discounted OTA inventory channels to protect ADR yield.",
+    "status": "NEW"
+  },
+  {
+    "id": "sig-02",
+    "market": "HK",
+    "category": "PARITY_VIOLATION",
+    "severity": "HIGH",
+    "title": "Trip.com Undercutting Dorsett & Rosewood Direct Channels by 8-15%",
+    "description": "Trip.com has initiated wholesale leakage on Hong Kong properties, displaying rates 8.2% to 14.7% below brand direct and ACCOMY contracted parities.",
+    "propertyOrRouteName": "Dorsett Wanchai / Rosewood HK",
+    "detectedAt": "42 mins ago",
+    "confidenceScore": 98,
+    "impactEstimate": "Estimated 18% direct booking margin degradation",
+    "recommendedAction": "Trigger automated parity notification to Trip.com account manager; test rate parity test booking for audit log.",
+    "status": "NEW"
+  },
+  {
+    "id": "sig-03",
+    "market": "SG",
+    "category": "FLIGHT_CORRIDOR",
+    "severity": "HIGH",
+    "title": "PVG-HKG & HKG-SIN Flight Fare Surge (+18.2% 7-Day Velocity)",
+    "description": "Direct airfares between Shanghai, Hong Kong, and Singapore Changi have accelerated sharply, signaling high inbound executive arrivals for the upcoming regional forums.",
+    "propertyOrRouteName": "PVG-HKG & HKG-SIN Air Corridors",
+    "detectedAt": "1 hour ago",
+    "confidenceScore": 92,
+    "impactEstimate": "Inbound demand surge index: 8.9/10",
+    "recommendedAction": "Coordinate dynamic rate uplifts (+12%) for properties near airport express and central business hubs.",
+    "status": "ACKNOWLEDGED"
+  },
+  {
+    "id": "sig-04",
+    "market": "MY",
+    "category": "RATE_WAR",
+    "severity": "MEDIUM",
+    "title": "KLCC Midscale Rate War Detected (-14% ADR Compression)",
+    "description": "Three competitor boutique brands in Kuala Lumpur Golden Triangle slashed base rates by 14% to capture China visa-free leisure travelers, threatening midscale ADR.",
+    "propertyOrRouteName": "Bukit Bintang / KLCC Midscale CompSet",
+    "detectedAt": "2.5 hours ago",
+    "confidenceScore": 89,
+    "impactEstimate": "Occupancy displacement risk: 7.5%",
+    "recommendedAction": "Do not engage in price-matching race to the bottom; bundle airport transfer or breakfast instead of cutting headline rate.",
+    "status": "ACKNOWLEDGED"
+  },
+  {
+    "id": "sig-05",
+    "market": "CN",
+    "category": "EVENT_IMPACT",
+    "severity": "HIGH",
+    "title": "Shenzhen Futian Border Crossings Reach 320,000 Daily Commuters",
+    "description": "High-speed rail passenger records between West Kowloon and Futian/Shenzhen North have triggered a surge in overnight stays in Shenzhen Futian hotels.",
+    "propertyOrRouteName": "Park Hyatt Shenzhen & Futian Corridor",
+    "detectedAt": "3 hours ago",
+    "confidenceScore": 94,
+    "impactEstimate": "Weekend occupancy surge to 92%+",
+    "recommendedAction": "Launch cross-border weekend package targeting HK travelers seeking luxury staycations in Shenzhen.",
+    "status": "DISPATCHED"
+  }
+]
