@@ -85,7 +85,7 @@ export default function App() {
   const handleTriggerCollection = async () => {
     setIsCollecting(true);
     try {
-      const res = await fetch('/api/trigger-collection', { method: 'POST' });
+      const res = await fetch('/api/pipeline/trigger-collection', { method: 'POST' });
       const data = await res.json();
       if (data.success) {
         setPipelineHealth(data.pipelineHealth);
@@ -109,14 +109,14 @@ export default function App() {
   const generateAISummary = async (market: MarketId = 'ALL', focusArea: string = 'Comprehensive') => {
     setIsAiLoading(true);
     try {
-      const res = await fetch('/api/generate-ai-summary', {
+      const res = await fetch('/api/ai-summary', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ market, focusArea })
       });
       const data = await res.json();
       setAiSummary(data);
-      showNotification('Executive Briefing synthesized by Gemini 3.8 Flash.');
+      showNotification('Executive Briefing synthesized via OpenRouter (free models).');
     } catch (err) {
       console.error('AI summary error:', err);
     } finally {
@@ -284,7 +284,7 @@ export default function App() {
           <div className="flex items-center gap-4 text-[11px]">
             <span>Automated 6h Ingestion Cycle</span>
             <span>•</span>
-            <span>Powered by Gemini 3.8 Flash</span>
+            <span>Powered by OpenRouter</span>
           </div>
         </div>
       </footer>

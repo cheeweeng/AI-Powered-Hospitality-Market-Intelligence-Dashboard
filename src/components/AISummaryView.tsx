@@ -65,7 +65,7 @@ export const AISummaryView: React.FC<AISummaryViewProps> = ({
             <div className="flex items-center gap-2 mb-1">
               <span className="text-xs font-semibold uppercase tracking-wider text-indigo-400 flex items-center gap-1">
                 <Sparkles className="w-3.5 h-3.5 text-cyan-400" />
-                Gemini 3.8 Flash AI Intelligence
+                OpenRouter AI Intelligence
               </span>
             </div>
             <h2 className="text-xl font-bold text-white">
@@ -112,7 +112,7 @@ export const AISummaryView: React.FC<AISummaryViewProps> = ({
               className="flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-cyan-600 to-indigo-600 hover:from-cyan-500 hover:to-indigo-500 text-white text-xs font-bold rounded-lg shadow-md shadow-indigo-500/20 transition-all disabled:opacity-50"
             >
               <RefreshCw className={`w-3.5 h-3.5 ${isLoading ? 'animate-spin' : ''}`} />
-              <span>{isLoading ? 'Synthesizing with Gemini...' : 'Regenerate Briefing'}</span>
+              <span>{isLoading ? 'Synthesizing executive briefing...' : 'Regenerate Briefing'}</span>
             </button>
           </div>
         </div>
@@ -314,7 +314,7 @@ export const AISummaryView: React.FC<AISummaryViewProps> = ({
           <Sparkles className="w-10 h-10 text-indigo-400 mx-auto animate-pulse mb-3" />
           <h3 className="text-base font-bold text-white">Synthesizing ACCOMY Market Intelligence...</h3>
           <p className="text-xs text-slate-400 mt-1 max-w-md mx-auto">
-            Gemini 3.8 Flash is analyzing real-time hotel ADRs, flight pricing corridors, and OTA rate parity data.
+            AI is analyzing real-time hotel ADRs, flight pricing corridors, and OTA rate parity data.
           </p>
         </div>
       )}
