@@ -1,13 +1,13 @@
 {
-  "dataCoverageRate": 94.8,
-  "dataFreshnessHours": 1.4,
+  "dataCoverageRate": 95.2,
+  "dataFreshnessHours": 0.1,
   "accuracyErrorRate": 2.3,
   "stakeholderUsabilityRating": 4.7,
   "insightQualityScore": 86,
   "systemUptimePercentage": 98.6,
   "activeSources": 18,
   "totalSources": 19,
-  "lastIngestionTimestamp": "Today, 06:10:00 UTC (1.4 hours ago)",
+  "lastIngestionTimestamp": "Just now (08:00 UTC)",
   "nextScheduledIngestion": "In 4.6 hours (Automated 6-Hour Cycle)",
   "sourceBreakdown": [
     {

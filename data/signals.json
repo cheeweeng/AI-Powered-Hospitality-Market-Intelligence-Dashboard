@@ -1,5 +1,47 @@
 [
   {
+    "id": "sig-1789545630989",
+    "market": "HK",
+    "category": "DEMAND_SURGE",
+    "severity": "HIGH",
+    "title": "Automated Pipeline Cycle: Surge Detected in HK Submarket",
+    "description": "Real-time collection identified +6.2% acceleration in forward 7-day pickup velocity across OTA channels.",
+    "propertyOrRouteName": "HK Prime Cluster",
+    "detectedAt": "Just now",
+    "confidenceScore": 95,
+    "impactEstimate": "Estimated RevPAR uplift potential +7-9%",
+    "recommendedAction": "Verify minimum stay restrictions and increase hurdle rates.",
+    "status": "NEW"
+  },
+  {
+    "id": "sig-1789543949037",
+    "market": "MY",
+    "category": "DEMAND_SURGE",
+    "severity": "HIGH",
+    "title": "Automated Pipeline Cycle: Surge Detected in MY Submarket",
+    "description": "Real-time collection identified +6.2% acceleration in forward 7-day pickup velocity across OTA channels.",
+    "propertyOrRouteName": "MY Prime Cluster",
+    "detectedAt": "Just now",
+    "confidenceScore": 95,
+    "impactEstimate": "Estimated RevPAR uplift potential +7-9%",
+    "recommendedAction": "Verify minimum stay restrictions and increase hurdle rates.",
+    "status": "NEW"
+  },
+  {
+    "id": "sig-1789543481200",
+    "market": "HK",
+    "category": "DEMAND_SURGE",
+    "severity": "HIGH",
+    "title": "Automated Pipeline Cycle: Surge Detected in HK Submarket",
+    "description": "Real-time collection identified +6.2% acceleration in forward 7-day pickup velocity across OTA channels.",
+    "propertyOrRouteName": "HK Prime Cluster",
+    "detectedAt": "Just now",
+    "confidenceScore": 95,
+    "impactEstimate": "Estimated RevPAR uplift potential +7-9%",
+    "recommendedAction": "Verify minimum stay restrictions and increase hurdle rates.",
+    "status": "NEW"
+  },
+  {
     "id": "sig-01",
     "market": "HK",
     "category": "DEMAND_SURGE",
