@@ -13,7 +13,7 @@ import {
 const router = Router();
 
 const OPENROUTER_URL = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'mistralai/mistral-7b-instruct:free';
+const MODEL = 'openrouter/free';
 
 function buildSystemInstruction(): string {
   return `You are the Principal AI Travel & Hospitality Market Intelligence Analyst for ACCOMY (https://accomy.com/about/).
